@@ -1,0 +1,10 @@
+{
+    "name": "emteknetnz/beta-test",
+    "authors": [
+        {
+            "name": "Steve Boyd",
+            "email": "emteknetnz@gmail.com"
+        }
+    ],
+    "require": {}
+}
